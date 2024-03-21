@@ -1,16 +1,6 @@
 # mixpanel_flutter_integration
 
-A new Flutter project.
+A flutter project that demonstates implementing the mixpanel SDK in flutter for loggging events and creating user profile which is a sample for the article below 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Article Link: https://medium.com/@rufaikudus2014/enhancing-user-engagement-and-tracking-with-mixpanel-sdk-in-flutter-3e4f96a709b3
